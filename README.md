@@ -44,8 +44,8 @@ pipwin install pyaudio</code></pre>
 <h2>Usage</h2>
 <h3>Run the Script</h3>
 <ol>
-    <li>After setting up the project and installing the dependencies, run the <code>speech_to_text.py</code> script:
-        <pre><code>python speech_to_text.py</code></pre>
+    <li>After setting up the project and installing the dependencies, run the <code>speech-to-text.py</code> script:
+        <pre><code>python speech-to-text.py</code></pre>
     </li>
     <li>The program will start listening for your speech. When you speak, it will recognize and save the text in a file named <code>you_said_this.txt</code>.</li>
     <li>The program continues listening for speech until you say the word <strong>"exit"</strong>, at which point it will stop.</li>
